@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! CRC-16/XMODEM as used by Stellar StrKey.
 //!
 //! SEP-23 specifies the polynomial x^16 + x^12 + x^5 + 1. The maintained

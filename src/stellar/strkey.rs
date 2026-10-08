@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Stellar StrKey for Ed25519 accounts (`G...`) and seeds (`S...`).
 //!
 //! SEP-23 v1.3.0:

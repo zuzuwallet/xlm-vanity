@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Stellar Ed25519 StrKey.
 //!
 //! Account IDs do not contain a network id. The same public key is the account

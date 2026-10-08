@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Vanity prefix checks for Stellar account StrKeys.
 //!
 //! Base32 consumes the version byte from its high bit. Version `0x30` is

@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! CLI for the offline Stellar vanity generator.
 //!
 //! The `S...` secret is printed only by `export`, after an explicit confirmation.
